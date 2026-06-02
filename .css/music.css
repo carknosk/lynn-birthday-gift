@@ -1,0 +1,42 @@
+.play-pause-btn {
+    display: inline-block;
+    margin-right: 1400px;
+    margin-top: 50px;
+    border-radius: 50px;
+    border-color: rgb(107, 216, 130);
+    background-color: rgb(18, 124, 62);
+    font-family: "Pixelify Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: normal;
+    font-style: normal;
+    font-size: 20px;
+    color: rgb(107, 216, 130);
+    width: 100px;
+
+    -webkit-font-smoothing: none;
+    -moz-osx-font-smoothing: grayscale;
+    font-smooth: never;
+
+    font-synthesis-weight: none; 
+}
+.audio-card {
+    display: inline-block;
+    margin-bottom: 900px;
+}
+.current-track {
+    display: inline-block;
+    width: 700px;
+    font-family: "Pixelify Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: normal;
+    font-style: normal;
+    font-size: 20px;
+    color: rgb(107, 216, 130);
+
+
+    -webkit-font-smoothing: none;
+    -moz-osx-font-smoothing: grayscale;
+    font-smooth: never;
+
+    font-synthesis-weight: none; 
+}

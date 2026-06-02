@@ -1,0 +1,22 @@
+.paragraph {
+    border-radius: 20px;
+    padding: 15px;
+    border-color: rgb(107, 216, 130);
+    background-color: rgb(18, 124, 62);
+    font-family: "Pixelify Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: normal;
+    font-style: normal;
+    font-size: 20px;
+    color: rgb(107, 216, 130);
+    
+    -webkit-font-smoothing: none;
+    -moz-osx-font-smoothing: grayscale;
+    font-smooth: never;
+
+    font-synthesis-weight: none; 
+}
+
+.paragraph-card {
+    width: 1000px;
+}
